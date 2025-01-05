@@ -1,19 +1,18 @@
-# Hackintosh-HP-EliteBook-840-G4
-This repository documents my journey of creating a Hackintosh on the HP EliteBook 840 G4 using the Dortania OpenCore guide. The goal is to make macOS run smoothly on this hardware while ensuring stability and performance.
+# Hackintosh on HP EliteBook 840 G4  
 
-Current Progress
+This repository documents my journey of creating a Hackintosh on the HP EliteBook 840 G4 using the Dortania OpenCore guide. The goal is to make macOS run smoothly on this hardware while ensuring stability and performance.  
 
-    Following Dortania's OpenCore guide.
-    Preparing kexts, SSDTs, and other essential files.
-    Testing initial configurations.
+## Current Progress  
+1. Following Dortania's OpenCore guide.  
+2. Preparing kexts, SSDTs, and other essential files.  
+3. Testing initial configurations.  
 
-Hardware Specifications
+## Hardware Specifications  
+- **Model**: HP EliteBook 840 G4  
+- **Processor**: Intel Core i5-7200U  
+- **Graphics**: Intel HD 620  
+- **RAM**: 24GB  
 
-    Model: HP EliteBook 840 G4
-    Processor: Intel Core i5-7200U
-    Graphics: Intel HD 620
-    RAM: 24GB
-
-This repository will include configuration files, setup instructions, and troubleshooting notes as the project progresses.
+This repository will include configuration files, setup instructions, and troubleshooting notes as the project progresses.  
 
 Stay tuned for updates!
